@@ -1,3 +1,3 @@
 # myspringboot-app
 
-Sprintboot + MySql + Hibernate
+Sprintboot + MySql + JPA
