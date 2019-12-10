@@ -2,7 +2,7 @@
 
 Simple CRUD operation using Springboot + MySql + JPA + Hibernate Restful API
 
-## Requirement
+## Requirements
 
 Java 1.8.*
 
@@ -10,7 +10,7 @@ Maven 3.*
 
 MySql 5.6.*
 
-# Setup
+## Setup
 
 ## Clone repo:
 
