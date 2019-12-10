@@ -2,7 +2,7 @@
 
 Simple CRUD operation using Springboot + MySql + JPA + Hibernate Restful API
 
-# Requirement
+## Requirement
 
 Jave 1.8.*
 
@@ -10,27 +10,27 @@ Maven 3.*
 
 MySql 5.6.*
 
-## Setup
+# Setup
 
-# Clone repo:
+## Clone repo:
 
 git clone https://github.com/kghufran/myspringboot-app.git
 
-# Create database in MySql
+## Create database in MySql
 
 create database springbootapp
 
-# Set mysql username and password
+## Set mysql username and password
 
 open src/main/resources/application.properties
 
-# Run application using maven
+## Run application using maven
 
 mvn spring-boot:run
 
 app will be running at http://localhost:8080
 
-Rest endpoints
+## Rest endpoints
 
 GET /persons
 
