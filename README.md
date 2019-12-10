@@ -4,7 +4,7 @@ Simple CRUD operation using Springboot + MySql + JPA + Hibernate Restful API
 
 ## Requirement
 
-Jave 1.8.*
+Java 1.8.*
 
 Maven 3.*
 
