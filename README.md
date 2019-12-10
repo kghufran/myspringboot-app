@@ -1,6 +1,6 @@
-# myspringboot-app
+# Springboot Restful API
 
-Simple CRUD operation using Springboot + MySql + JPA + Hibernate Restful API
+Simple CRUD operation using Springboot + MySql + JPA + Hibernate
 
 ## Requirements
 

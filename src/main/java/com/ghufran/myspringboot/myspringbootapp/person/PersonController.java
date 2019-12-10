@@ -14,7 +14,6 @@ public class PersonController {
     PersonRepository personRepository;
 
     // Get All persons
-
     @GetMapping(path = "/persons")
     public List<Person> getAllPersons(){
         return personRepository.findAll();
